@@ -25,7 +25,7 @@ SECRET_KEY = 'nd^vno&d0$1z--y5_odwma9i^-8(hza)xh(j7j_%snbnov!&9('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['gukoma.pythonanywhere.com']
 
 
 # Application definition
